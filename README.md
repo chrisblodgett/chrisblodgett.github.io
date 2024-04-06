@@ -2,7 +2,14 @@
 
 ## Python and Computer Science
 
-Here you'll find my thoughts, tutorials, and projects related to Python programming and computer science concepts.
+
+
+
+Here you'll find my thoughts, tutorials, and projects related to Python programming and computer science in general. 
+
+
+
+
 
 ### Connect with Me
 - [Medium](https://medium.com/@chrisblodgettevo)
